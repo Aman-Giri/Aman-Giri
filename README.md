@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aman Giri</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-giri&label=Profile%20views&color=0e75b6&style=flat" alt="aman-giri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aman giri" target="blank"><img src="https://img.shields.io/twitter/follow/aman giri?logo=twitter&style=for-the-badge" alt="aman giri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/amangirikg" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amangirikg?logo=twitter&style=for-the-badge" alt="https://twitter.com/amangirikg" /></a> </p>
 
 - 🔭 I’m currently working on **Web and API Automation**
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amangirikg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman giri" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/amangirikg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/amangirikg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman giri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/giri_aman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giri_aman01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amangirikg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amangirikg" height="30" width="40" /></a>
